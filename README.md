@@ -5,7 +5,7 @@
 ```
 pipenv install
 pipenv shell
-python crate_ssd.py
+python create_ssd.py
 cp ./model/optimized_ssd_model.pt ./android/ObjectDetection/app/src/main/assets/
 ```
 
